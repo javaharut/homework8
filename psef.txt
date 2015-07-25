@@ -1,0 +1,324 @@
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 13:13 ?        00:00:01 /sbin/init
+root         2     0  0 13:13 ?        00:00:00 [kthreadd]
+root         3     2  0 13:13 ?        00:00:00 [ksoftirqd/0]
+root         4     2  0 13:13 ?        00:00:00 [kworker/0:0]
+root         5     2  0 13:13 ?        00:00:00 [kworker/0:0H]
+root         7     2  0 13:13 ?        00:00:02 [rcu_sched]
+root         8     2  0 13:13 ?        00:00:00 [rcuos/0]
+root         9     2  0 13:13 ?        00:00:00 [rcuos/1]
+root        10     2  0 13:13 ?        00:00:00 [rcuos/2]
+root        11     2  0 13:13 ?        00:00:00 [rcuos/3]
+root        12     2  0 13:13 ?        00:00:00 [rcuos/4]
+root        13     2  0 13:13 ?        00:00:00 [rcuos/5]
+root        14     2  0 13:13 ?        00:00:00 [rcuos/6]
+root        15     2  0 13:13 ?        00:00:00 [rcuos/7]
+root        16     2  0 13:13 ?        00:00:00 [rcuos/8]
+root        17     2  0 13:13 ?        00:00:00 [rcuos/9]
+root        18     2  0 13:13 ?        00:00:00 [rcuos/10]
+root        19     2  0 13:13 ?        00:00:00 [rcuos/11]
+root        20     2  0 13:13 ?        00:00:00 [rcuos/12]
+root        21     2  0 13:13 ?        00:00:00 [rcuos/13]
+root        22     2  0 13:13 ?        00:00:00 [rcuos/14]
+root        23     2  0 13:13 ?        00:00:00 [rcuos/15]
+root        24     2  0 13:13 ?        00:00:00 [rcuos/16]
+root        25     2  0 13:13 ?        00:00:00 [rcuos/17]
+root        26     2  0 13:13 ?        00:00:00 [rcuos/18]
+root        27     2  0 13:13 ?        00:00:00 [rcuos/19]
+root        28     2  0 13:13 ?        00:00:00 [rcuos/20]
+root        29     2  0 13:13 ?        00:00:00 [rcuos/21]
+root        30     2  0 13:13 ?        00:00:00 [rcuos/22]
+root        31     2  0 13:13 ?        00:00:00 [rcuos/23]
+root        32     2  0 13:13 ?        00:00:00 [rcuos/24]
+root        33     2  0 13:13 ?        00:00:00 [rcuos/25]
+root        34     2  0 13:13 ?        00:00:00 [rcuos/26]
+root        35     2  0 13:13 ?        00:00:00 [rcuos/27]
+root        36     2  0 13:13 ?        00:00:00 [rcuos/28]
+root        37     2  0 13:13 ?        00:00:00 [rcuos/29]
+root        38     2  0 13:13 ?        00:00:00 [rcuos/30]
+root        39     2  0 13:13 ?        00:00:00 [rcuos/31]
+root        40     2  0 13:13 ?        00:00:00 [rcuos/32]
+root        41     2  0 13:13 ?        00:00:00 [rcuos/33]
+root        42     2  0 13:13 ?        00:00:00 [rcuos/34]
+root        43     2  0 13:13 ?        00:00:00 [rcuos/35]
+root        44     2  0 13:13 ?        00:00:00 [rcuos/36]
+root        45     2  0 13:13 ?        00:00:00 [rcuos/37]
+root        46     2  0 13:13 ?        00:00:00 [rcuos/38]
+root        47     2  0 13:13 ?        00:00:00 [rcuos/39]
+root        48     2  0 13:13 ?        00:00:00 [rcuos/40]
+root        49     2  0 13:13 ?        00:00:00 [rcuos/41]
+root        50     2  0 13:13 ?        00:00:00 [rcuos/42]
+root        51     2  0 13:13 ?        00:00:00 [rcuos/43]
+root        52     2  0 13:13 ?        00:00:00 [rcuos/44]
+root        53     2  0 13:13 ?        00:00:00 [rcuos/45]
+root        54     2  0 13:13 ?        00:00:00 [rcuos/46]
+root        55     2  0 13:13 ?        00:00:00 [rcuos/47]
+root        56     2  0 13:13 ?        00:00:00 [rcuos/48]
+root        57     2  0 13:13 ?        00:00:00 [rcuos/49]
+root        58     2  0 13:13 ?        00:00:00 [rcuos/50]
+root        59     2  0 13:13 ?        00:00:00 [rcuos/51]
+root        60     2  0 13:13 ?        00:00:00 [rcuos/52]
+root        61     2  0 13:13 ?        00:00:00 [rcuos/53]
+root        62     2  0 13:13 ?        00:00:00 [rcuos/54]
+root        63     2  0 13:13 ?        00:00:00 [rcuos/55]
+root        64     2  0 13:13 ?        00:00:00 [rcuos/56]
+root        65     2  0 13:13 ?        00:00:00 [rcuos/57]
+root        66     2  0 13:13 ?        00:00:00 [rcuos/58]
+root        67     2  0 13:13 ?        00:00:00 [rcuos/59]
+root        68     2  0 13:13 ?        00:00:00 [rcuos/60]
+root        69     2  0 13:13 ?        00:00:00 [rcuos/61]
+root        70     2  0 13:13 ?        00:00:00 [rcuos/62]
+root        71     2  0 13:13 ?        00:00:00 [rcuos/63]
+root        72     2  0 13:13 ?        00:00:00 [rcu_bh]
+root        73     2  0 13:13 ?        00:00:00 [rcuob/0]
+root        74     2  0 13:13 ?        00:00:00 [rcuob/1]
+root        75     2  0 13:13 ?        00:00:00 [rcuob/2]
+root        76     2  0 13:13 ?        00:00:00 [rcuob/3]
+root        77     2  0 13:13 ?        00:00:00 [rcuob/4]
+root        78     2  0 13:13 ?        00:00:00 [rcuob/5]
+root        79     2  0 13:13 ?        00:00:00 [rcuob/6]
+root        80     2  0 13:13 ?        00:00:00 [rcuob/7]
+root        81     2  0 13:13 ?        00:00:00 [rcuob/8]
+root        82     2  0 13:13 ?        00:00:00 [rcuob/9]
+root        83     2  0 13:13 ?        00:00:00 [rcuob/10]
+root        84     2  0 13:13 ?        00:00:00 [rcuob/11]
+root        85     2  0 13:13 ?        00:00:00 [rcuob/12]
+root        86     2  0 13:13 ?        00:00:00 [rcuob/13]
+root        87     2  0 13:13 ?        00:00:00 [rcuob/14]
+root        88     2  0 13:13 ?        00:00:00 [rcuob/15]
+root        89     2  0 13:13 ?        00:00:00 [rcuob/16]
+root        90     2  0 13:13 ?        00:00:00 [rcuob/17]
+root        91     2  0 13:13 ?        00:00:00 [rcuob/18]
+root        92     2  0 13:13 ?        00:00:00 [rcuob/19]
+root        93     2  0 13:13 ?        00:00:00 [rcuob/20]
+root        94     2  0 13:13 ?        00:00:00 [rcuob/21]
+root        95     2  0 13:13 ?        00:00:00 [rcuob/22]
+root        96     2  0 13:13 ?        00:00:00 [rcuob/23]
+root        97     2  0 13:13 ?        00:00:00 [rcuob/24]
+root        98     2  0 13:13 ?        00:00:00 [rcuob/25]
+root        99     2  0 13:13 ?        00:00:00 [rcuob/26]
+root       100     2  0 13:13 ?        00:00:00 [rcuob/27]
+root       101     2  0 13:13 ?        00:00:00 [rcuob/28]
+root       102     2  0 13:13 ?        00:00:00 [rcuob/29]
+root       103     2  0 13:13 ?        00:00:00 [rcuob/30]
+root       104     2  0 13:13 ?        00:00:00 [rcuob/31]
+root       105     2  0 13:13 ?        00:00:00 [rcuob/32]
+root       106     2  0 13:13 ?        00:00:00 [rcuob/33]
+root       107     2  0 13:13 ?        00:00:00 [rcuob/34]
+root       108     2  0 13:13 ?        00:00:00 [rcuob/35]
+root       109     2  0 13:13 ?        00:00:00 [rcuob/36]
+root       110     2  0 13:13 ?        00:00:00 [rcuob/37]
+root       111     2  0 13:13 ?        00:00:00 [rcuob/38]
+root       112     2  0 13:13 ?        00:00:00 [rcuob/39]
+root       113     2  0 13:13 ?        00:00:00 [rcuob/40]
+root       114     2  0 13:13 ?        00:00:00 [rcuob/41]
+root       115     2  0 13:13 ?        00:00:00 [rcuob/42]
+root       116     2  0 13:13 ?        00:00:00 [rcuob/43]
+root       117     2  0 13:13 ?        00:00:00 [rcuob/44]
+root       118     2  0 13:13 ?        00:00:00 [rcuob/45]
+root       119     2  0 13:13 ?        00:00:00 [rcuob/46]
+root       120     2  0 13:13 ?        00:00:00 [rcuob/47]
+root       121     2  0 13:13 ?        00:00:00 [rcuob/48]
+root       122     2  0 13:13 ?        00:00:00 [rcuob/49]
+root       123     2  0 13:13 ?        00:00:00 [rcuob/50]
+root       124     2  0 13:13 ?        00:00:00 [rcuob/51]
+root       125     2  0 13:13 ?        00:00:00 [rcuob/52]
+root       126     2  0 13:13 ?        00:00:00 [rcuob/53]
+root       127     2  0 13:13 ?        00:00:00 [rcuob/54]
+root       128     2  0 13:13 ?        00:00:00 [rcuob/55]
+root       129     2  0 13:13 ?        00:00:00 [rcuob/56]
+root       130     2  0 13:13 ?        00:00:00 [rcuob/57]
+root       131     2  0 13:13 ?        00:00:00 [rcuob/58]
+root       132     2  0 13:13 ?        00:00:00 [rcuob/59]
+root       133     2  0 13:13 ?        00:00:00 [rcuob/60]
+root       134     2  0 13:13 ?        00:00:00 [rcuob/61]
+root       135     2  0 13:13 ?        00:00:00 [rcuob/62]
+root       136     2  0 13:13 ?        00:00:00 [rcuob/63]
+root       137     2  0 13:13 ?        00:00:01 [migration/0]
+root       138     2  0 13:13 ?        00:00:00 [watchdog/0]
+root       139     2  0 13:13 ?        00:00:00 [watchdog/1]
+root       140     2  0 13:13 ?        00:00:00 [migration/1]
+root       141     2  0 13:13 ?        00:00:00 [ksoftirqd/1]
+root       143     2  0 13:13 ?        00:00:00 [kworker/1:0H]
+root       144     2  0 13:13 ?        00:00:00 [khelper]
+root       145     2  0 13:13 ?        00:00:00 [kdevtmpfs]
+root       146     2  0 13:13 ?        00:00:00 [netns]
+root       147     2  0 13:13 ?        00:00:00 [writeback]
+root       148     2  0 13:13 ?        00:00:00 [kintegrityd]
+root       149     2  0 13:13 ?        00:00:00 [bioset]
+root       150     2  0 13:13 ?        00:00:00 [kworker/u129:0]
+root       151     2  0 13:13 ?        00:00:00 [kblockd]
+root       152     2  0 13:13 ?        00:00:00 [ata_sff]
+root       153     2  0 13:13 ?        00:00:00 [khubd]
+root       154     2  0 13:13 ?        00:00:00 [md]
+root       155     2  0 13:13 ?        00:00:00 [devfreq_wq]
+root       156     2  0 13:13 ?        00:00:00 [kworker/1:1]
+root       158     2  0 13:13 ?        00:00:00 [khungtaskd]
+root       159     2  0 13:13 ?        00:00:00 [kswapd0]
+root       160     2  0 13:13 ?        00:00:00 [ksmd]
+root       161     2  0 13:13 ?        00:00:00 [khugepaged]
+root       162     2  0 13:13 ?        00:00:00 [fsnotify_mark]
+root       163     2  0 13:13 ?        00:00:00 [ecryptfs-kthrea]
+root       164     2  0 13:13 ?        00:00:00 [crypto]
+root       176     2  0 13:13 ?        00:00:00 [kthrotld]
+root       178     2  0 13:13 ?        00:00:00 [scsi_eh_0]
+root       179     2  0 13:13 ?        00:00:00 [scsi_eh_1]
+root       201     2  0 13:13 ?        00:00:00 [deferwq]
+root       202     2  0 13:13 ?        00:00:00 [charger_manager]
+root       203     2  0 13:13 ?        00:00:00 [kworker/1:2]
+root       249     2  0 13:13 ?        00:00:00 [mpt_poll_0]
+root       250     2  0 13:13 ?        00:00:00 [mpt/0]
+root       252     2  0 13:13 ?        00:00:00 [scsi_eh_2]
+root       253     2  0 13:13 ?        00:00:00 [scsi_eh_3]
+root       254     2  0 13:13 ?        00:00:00 [scsi_eh_4]
+root       255     2  0 13:13 ?        00:00:00 [scsi_eh_5]
+root       256     2  0 13:13 ?        00:00:00 [scsi_eh_6]
+root       257     2  0 13:13 ?        00:00:00 [scsi_eh_7]
+root       258     2  0 13:13 ?        00:00:00 [scsi_eh_8]
+root       259     2  0 13:13 ?        00:00:00 [scsi_eh_9]
+root       260     2  0 13:13 ?        00:00:00 [scsi_eh_10]
+root       261     2  0 13:13 ?        00:00:00 [scsi_eh_11]
+root       262     2  0 13:13 ?        00:00:00 [scsi_eh_12]
+root       263     2  0 13:13 ?        00:00:00 [scsi_eh_13]
+root       264     2  0 13:13 ?        00:00:00 [scsi_eh_14]
+root       265     2  0 13:13 ?        00:00:00 [scsi_eh_15]
+root       266     2  0 13:13 ?        00:00:00 [scsi_eh_16]
+root       267     2  0 13:13 ?        00:00:00 [scsi_eh_17]
+root       268     2  0 13:13 ?        00:00:00 [scsi_eh_18]
+root       269     2  0 13:13 ?        00:00:00 [scsi_eh_19]
+root       270     2  0 13:13 ?        00:00:00 [scsi_eh_20]
+root       271     2  0 13:13 ?        00:00:00 [scsi_eh_21]
+root       272     2  0 13:13 ?        00:00:00 [scsi_eh_22]
+root       273     2  0 13:13 ?        00:00:00 [scsi_eh_23]
+root       274     2  0 13:13 ?        00:00:00 [scsi_eh_24]
+root       275     2  0 13:13 ?        00:00:00 [scsi_eh_25]
+root       276     2  0 13:13 ?        00:00:00 [scsi_eh_26]
+root       277     2  0 13:13 ?        00:00:00 [scsi_eh_27]
+root       278     2  0 13:13 ?        00:00:00 [scsi_eh_28]
+root       279     2  0 13:13 ?        00:00:00 [scsi_eh_29]
+root       280     2  0 13:13 ?        00:00:00 [scsi_eh_30]
+root       281     2  0 13:13 ?        00:00:00 [scsi_eh_31]
+root       306     2  0 13:13 ?        00:00:00 [kworker/u128:28]
+root       310     2  0 13:13 ?        00:00:00 [kpsmoused]
+root       311     2  0 13:13 ?        00:00:00 [scsi_eh_32]
+root       322     2  0 13:13 ?        00:00:00 [jbd2/sda1-8]
+root       323     2  0 13:13 ?        00:00:00 [ext4-rsv-conver]
+root       443     1  0 13:14 ?        00:00:00 upstart-udev-bridge --daemon
+root       451     1  0 13:14 ?        00:00:00 /lib/systemd/systemd-udevd --daemon
+root       488     2  0 13:14 ?        00:00:00 [ttm_swap]
+root       503     2  0 13:14 ?        00:00:00 [hci0]
+root       504     2  0 13:14 ?        00:00:00 [hci0]
+root       506     2  0 13:14 ?        00:00:00 [kworker/u129:2]
+root       622     1  0 13:14 ?        00:00:00 upstart-socket-bridge --daemon
+message+   839     1  0 13:14 ?        00:00:00 dbus-daemon --system --fork
+root       855     1  0 13:14 ?        00:00:00 upstart-file-bridge --daemon
+root       873     1  0 13:14 ?        00:00:00 /usr/sbin/ModemManager
+root       874     1  0 13:14 ?        00:00:00 /usr/sbin/bluetoothd
+root       887     2  0 13:14 ?        00:00:00 [krfcommd]
+syslog     911     1  0 13:14 ?        00:00:00 rsyslogd
+root       966     1  0 13:14 ?        00:00:00 /lib/systemd/systemd-logind
+avahi      986     1  0 13:14 ?        00:00:00 avahi-daemon: running [chrysaor-info-ubuntu-14041-desktop-amd64.local]
+avahi      997   986  0 13:14 ?        00:00:00 avahi-daemon: chroot helper
+root      1026     1  0 13:14 tty4     00:00:00 /sbin/getty -8 38400 tty4
+root      1031     1  0 13:14 tty5     00:00:00 /sbin/getty -8 38400 tty5
+root      1037     1  0 13:14 tty2     00:00:00 /sbin/getty -8 38400 tty2
+root      1038     1  0 13:14 tty3     00:00:00 /sbin/getty -8 38400 tty3
+root      1041     1  0 13:14 tty6     00:00:00 /sbin/getty -8 38400 tty6
+root      1145     1  0 13:14 ?        00:00:01 /usr/sbin/irqbalance
+root      1149     1  0 13:14 ?        00:00:01 NetworkManager
+root      1153     1  0 13:14 ?        00:00:00 /usr/sbin/cups-browsed
+root      1162     1  0 13:14 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+kernoops  1172     1  0 13:14 ?        00:00:00 /usr/sbin/kerneloops
+root      1174     1  0 13:14 ?        00:00:00 cron
+root      1225     1  0 13:14 tty1     00:00:00 /sbin/getty -8 38400 tty1
+root      1267     1  0 13:14 ?        00:00:00 acpid -c /etc/acpi/events -s /var/run/acpid.socket
+whoopsie  1274     1  0 13:14 ?        00:00:00 whoopsie
+root      1279  1149  0 13:14 ?        00:00:00 /sbin/dhclient -d -sf /usr/lib/NetworkManager/nm-dhcp-client.action -pf /run/sendsigs.omit.d/network-manager.dhclient-eth0.pid -lf /var/lib/NetworkManager/dhclient-30e25742-b9a4-4527-bfc7-b1a8add329eb-eth0.lease -cf /var/lib/NetworkManager/dhclient-eth0.conf eth0
+root      1330     1  0 13:14 ?        00:00:00 lightdm
+root      1381  1330  1 13:14 tty7     00:00:48 /usr/bin/X -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root      1384     1  0 13:14 ?        00:00:00 /usr/lib/accountsservice/accounts-daemon
+nobody    1401  1149  0 13:14 ?        00:00:00 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/run/sendsigs.omit.d/network-manager.dnsmasq.pid --listen-address=127.0.1.1 --conf-file=/var/run/NetworkManager/dnsmasq.conf --cache-size=0 --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+root      1454     2  0 13:14 ?        00:00:00 [kauditd]
+root      1595  1330  0 13:14 ?        00:00:00 lightdm --session-child 12 19
+root      1641     1  0 13:14 ?        00:00:00 /usr/lib/upower/upowerd
+rtkit     1747     1  0 13:14 ?        00:00:00 /usr/lib/rtkit/rtkit-daemon
+user      1901     1  0 13:14 ?        00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+user      1903  1595  0 13:14 ?        00:00:00 init --user
+user      1998  1903  0 13:14 ?        00:00:01 dbus-daemon --fork --session --address=unix:abstract=/tmp/dbus-hTxCisaeiX
+user      2010  1903  0 13:14 ?        00:00:00 upstart-event-bridge
+user      2025  1903  0 13:14 ?        00:00:10 /usr/bin/ibus-daemon --daemonize --xim
+user      2037  1903  0 13:14 ?        00:00:00 /usr/lib/x86_64-linux-gnu/hud/window-stack-bridge
+user      2043  1903  0 13:14 ?        00:00:00 upstart-dbus-bridge --daemon --system --user --bus-name system
+user      2046  1903  0 13:14 ?        00:00:00 upstart-dbus-bridge --daemon --session --user --bus-name session
+user      2048  1903  0 13:14 ?        00:00:00 upstart-file-bridge --daemon --user
+user      2062  1903  0 13:14 ?        00:00:00 /usr/lib/unity-settings-daemon/unity-settings-daemon
+user      2067  1903  0 13:14 ?        00:00:09 /usr/lib/x86_64-linux-gnu/hud/hud-service
+user      2068  1903  0 13:14 ?        00:00:00 /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately
+user      2069  1903  0 13:14 ?        00:00:00 gnome-session --session=ubuntu
+user      2074  2068  0 13:14 ?        00:00:00 /bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+user      2076  1903  0 13:14 ?        00:00:05 /usr/lib/unity/unity-panel-service
+user      2081  1903  0 13:14 ?        00:00:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+user      2089  1903  0 13:14 ?        00:00:00 /usr/lib/gvfs/gvfsd
+user      2093  1903  0 13:14 ?        00:00:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+user      2111  2025  0 13:14 ?        00:00:00 /usr/lib/ibus/ibus-dconf
+user      2113  2025  0 13:14 ?        00:00:02 /usr/lib/ibus/ibus-ui-gtk3
+user      2115  1903  0 13:14 ?        00:00:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+user      2134  2025  0 13:14 ?        00:00:01 /usr/lib/ibus/ibus-engine-simple
+user      2142  1903  0 13:14 ?        00:00:01 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+colord    2151     1  0 13:14 ?        00:00:00 /usr/lib/colord/colord
+root      2152     2  0 13:14 ?        00:00:00 [kworker/0:2]
+user      2160  1903  0 13:14 ?        00:00:00 /usr/bin/pulseaudio --start --log-target=syslog
+root      2168     1  0 13:14 ?        00:00:00 /usr/sbin/cupsd -f
+user      2176  1903  0 13:14 ?        00:00:00 /usr/lib/dconf/dconf-service
+user      2184  1903  0 13:14 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-keyboard-service --use-gtk
+lp        2186  2168  0 13:14 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus:// 
+lp        2187  2168  0 13:14 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus:// 
+user      2198  1903  0 13:15 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+user      2200  1903  0 13:15 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+user      2202  1903  0 13:15 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+user      2207  1903  0 13:15 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+user      2212  1903  0 13:15 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+user      2213  1903  0 13:15 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-printers/indicator-printers-service
+user      2219  1903  0 13:15 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+user      2222  1903  0 13:15 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+user      2253  1903  0 13:15 ?        00:00:00 /usr/lib/evolution/evolution-source-registry
+user      2258  1903  0 13:15 ?        00:00:00 /usr/lib/x86_64-linux-gnu/notify-osd
+root      2291     1  0 13:15 ?        00:00:00 tpvmlpd2
+user      2344  2069  1 13:15 ?        00:00:30 compiz
+user      2355  1903  0 13:15 ?        00:00:00 /usr/lib/evolution/evolution-calendar-factory
+user      2358  2069  0 13:15 ?        00:00:00 nm-applet
+user      2363  2069  0 13:15 ?        00:00:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+user      2366  2069  0 13:15 ?        00:00:02 nautilus -n
+user      2370  2069  0 13:15 ?        00:00:00 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+user      2374  1903  0 13:15 ?        00:00:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+user      2389  1903  0 13:15 ?        00:00:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+root      2400     1  0 13:15 ?        00:00:00 /usr/lib/udisks2/udisksd --no-debug
+user      2412  1903  0 13:15 ?        00:00:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+user      2416  1903  0 13:15 ?        00:00:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+user      2420  1903  0 13:15 ?        00:00:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+lp        2433  2168  0 13:15 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus:// 
+user      2445  1903  0 13:15 ?        00:00:00 /usr/lib/gvfs/gvfsd-burn --spawner :1.8 /org/gtk/gvfs/exec_spaw/0
+user      2457  1903  0 13:15 ?        00:00:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.8 /org/gtk/gvfs/exec_spaw/1
+user      2499  2069  0 13:15 ?        00:00:00 telepathy-indicator
+user      2506  1903  0 13:15 ?        00:00:00 /usr/lib/telepathy/mission-control-5
+user      2653  1903  0 13:15 ?        00:00:00 /usr/bin/zeitgeist-daemon
+user      2660  1903  0 13:15 ?        00:00:00 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+user      2662  1903  0 13:15 ?        00:00:00 zeitgeist-datahub
+user      2687  2660  0 13:15 ?        00:00:00 /bin/cat
+user      3818  1903  0 13:15 ?        00:00:00 /usr/lib/eclipse/eclipse
+user      5373  3818  5 13:15 ?        00:02:08 /usr/bin/java -Xms40m -Xmx384m -Dorg.eclipse.equinox.p2.reconciler.dropins.directory=/usr/share/eclipse/dropins -XX:MaxPermSize=256m -jar /usr/lib/eclipse//plugins/org.eclipse.equinox.launcher_1.3.0.dist.jar -os linux -ws gtk -arch x86_64 -showsplash /usr/lib/eclipse//plugins/org.eclipse.platform_3.8.1.dist/splash.bmp -launcher /usr/lib/eclipse/eclipse -name Eclipse --launcher.library /usr/lib/eclipse//plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.200.dist/eclipse_1503.so -startup /usr/lib/eclipse//plugins/org.eclipse.equinox.launcher_1.3.0.dist.jar --launcher.overrideVmargs -exitdata 120001 -vm /usr/bin/java -vmargs -Xms40m -Xmx384m -Dorg.eclipse.equinox.p2.reconciler.dropins.directory=/usr/share/eclipse/dropins -XX:MaxPermSize=256m -jar /usr/lib/eclipse//plugins/org.eclipse.equinox.launcher_1.3.0.dist.jar
+user      7107  1903  0 13:15 ?        00:00:00 /usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+user      7505  1903  0 13:15 ?        00:00:00 /usr/bin/unity-scope-loader applications/applications.scope applications/scopes.scope commands.scope
+user      7506  1903  0 13:15 ?        00:00:00 /usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+user      8717  1903  0 13:15 ?        00:00:03 gnome-terminal
+user      8725  8717  0 13:15 ?        00:00:00 gnome-pty-helper
+user      8726  8717  0 13:15 pts/0    00:00:00 bash
+root      8955     1  0 13:16 ?        00:00:00 /usr/sbin/vmware-vmblock-fuse -o subtype=vmware-vmblock,default_permissions,allow_other /var/run/vmblock-fuse
+user      8967  1903  0 13:16 ?        00:00:03 /usr/lib/vmware-tools/sbin64/vmtoolsd -n vmusr --blockFd 3
+user      9160  2069  0 13:16 ?        00:00:00 update-notifier
+user      9212  2069  0 13:17 ?        00:00:00 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+root      9726     2  0 13:33 ?        00:00:00 [kworker/u128:1]
+user      9872  1903  0 13:40 ?        00:00:00 /usr/lib/gvfs/gvfsd-metadata
+user      9878  1903  0 13:40 ?        00:00:01 gedit /home/user/z0p1/homework5/fork2.c
+user     10313  5373  0 13:57 ?        00:00:00 /home/user/z0p1/homework8/Debug/homework8
+user     10322  8726  0 13:57 pts/0    00:00:00 ps -ef

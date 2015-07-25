@@ -4,13 +4,13 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
-../create_pthreads.c 
+../3threads.c 
 
 OBJS += \
-./create_pthreads.o 
+./3threads.o 
 
 C_DEPS += \
-./create_pthreads.d 
+./3threads.d 
 
 
 # Each subdirectory must supply rules for building sources it contributes
